@@ -41,4 +41,4 @@ Data is managed using **ArrayList**, making the system dynamic and easy to exten
 1. Open the project folder in **VS Code**
 2. Compile the Java file:
    ```bash
-   javac CarRental.java
+   javac carrental.java

@@ -257,7 +257,7 @@ class CarRentalSystem {
 
 }
 
-public class carrental {
+public class CarRental {
     public static void main(String[] args) {
         CarRentalSystem rentalSystem = new CarRentalSystem();
 
